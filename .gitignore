@@ -1,0 +1,18 @@
+# Datasets and generated images
+data/
+outputs/
+previews/
+
+# Model weights and checkpoints
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+
+# Python environment and cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
